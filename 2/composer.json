@@ -1,0 +1,11 @@
+{
+  "name": "icyapril/one",
+  "description": "Chapter 1 of PHP OOP book.",
+  "type": "project",
+  "require": {},
+  "autoload": {
+    "psr-4": {
+      "IcyApril\\ChapterTwo\\": "src/"
+    }
+  }
+}
