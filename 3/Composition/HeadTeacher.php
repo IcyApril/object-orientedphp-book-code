@@ -21,6 +21,6 @@ class HeadTeacher
 
     public function getHouse(): string
     {
-        $this->person->getHouse();
+        return $this->teacher->getHouse();
     }
 }
